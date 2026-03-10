@@ -1,11 +1,11 @@
-🏠 Airbnb-Market-Analysis (France vs Seattle)
-📌 Project Overview
+# 🏠 Airbnb-Market-Analysis (France vs Seattle)
+## 📌 Project Overview
 
 This project provides data-driven insights into Airbnb market dynamics by comparing two structurally different markets: France and Seattle.
 
 The analysis explores how pricing, demand, guest satisfaction, host behavior, and amenities influence listing performance across markets. Using a combination of data analytics, statistical testing, and machine learning, the project identifies key drivers of Airbnb performance and provides strategic recommendations for hosts and platform decision-makers.
 
-The project evaluates:
+# The project evaluates:
 
 Pricing strategies and market competitiveness
 
@@ -21,7 +21,7 @@ Cancellation policies and risk management
 
 Market segmentation and predictive modeling
 
-🎯 Objectives
+# 🎯 Objectives
 
 Understand the structural differences between scale-driven and experience-driven Airbnb markets.
 
@@ -35,7 +35,7 @@ Use statistical testing and machine learning to validate business insights.
 
 Provide actionable recommendations for hosts and platform strategy.
 
-📊 Key Insights
+# 📊 Key Insights
 
 France → Scale-Driven Market
 
@@ -77,7 +77,7 @@ Seattle shows higher engagement and review rates
 
 France maintains high satisfaction at large scale
 
-🏆 Recommendations
+# 🏆 Recommendations
 
 France – Scale & Efficiency Strategy
 
@@ -103,7 +103,7 @@ Operational scale alone does not improve guest satisfaction
 
 Capacity and location should guide pricing strategy
 
-📂 Project Files
+# 📂 Project Files
 
 data/
 France_clean.csv → Cleaned Airbnb dataset for France
@@ -120,7 +120,7 @@ Final_Seattle_Part2.twbx → Tableau dashboard analyzing Seattle market
 presentation/
 Listing & Host Performance Analysis.pptx → Final project presentation with insights and recommendations
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 Python → Data cleaning, analysis, and machine learning
 Pandas & NumPy → Data manipulation
@@ -130,7 +130,7 @@ Excel → Data exploration and preprocessing
 Tableau → Interactive data visualization and dashboards
 Statistical Hypothesis Testing → T-tests and Z-tests for validation
 
-🤖 Machine Learning Models
+# 🤖 Machine Learning Models
 
 Simple Linear Regression → Price prediction baseline
 
@@ -142,7 +142,7 @@ K-Nearest Neighbors (KNN) → Capacity segmentation
 
 K-Means Clustering → Market segmentation into demand tiers
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Naseeha Shabnam N B
 
@@ -151,7 +151,7 @@ Airbnb Market Analysis Study
 
 📧 nasehashabnamnb@gmail.com
 
-✅ How to Use
+# ✅ How to Use
 
 Download the datasets from the data/ folder.
 
