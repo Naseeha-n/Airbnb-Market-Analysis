@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![SQL](https://img.shields.io/badge/SQL-MySQL-green)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-purple)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-red)
+
 # 🏠 Airbnb-Market-Analysis (France vs Seattle)
 ## 📌 Project Overview
 
